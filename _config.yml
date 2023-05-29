@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Wang
+title                    : "Hao Wang"
 title_separator          : "-"
 name                     : &name "Hao Wang"
 description              : &description "Software Engineer at Oxbotica"
